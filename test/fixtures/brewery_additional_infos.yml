@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  googlemap_place_id: MyString
+  phone_number: MyString
+  website_url: MyString
+  prefecture: MyString
+  photo_references: MyString
+
+two:
+  googlemap_place_id: MyString
+  phone_number: MyString
+  website_url: MyString
+  prefecture: MyString
+  photo_references: MyString

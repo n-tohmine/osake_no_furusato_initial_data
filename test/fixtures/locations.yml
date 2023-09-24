@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  prefecture: MyString
+  central_point: MyString
+  search_radius: 1
+  latitude: 1.5
+  longtude: 1.5
+
+two:
+  prefecture: MyString
+  central_point: MyString
+  search_radius: 1
+  latitude: 1.5
+  longtude: 1.5
